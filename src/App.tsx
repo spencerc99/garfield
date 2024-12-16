@@ -496,9 +496,7 @@ function App() {
                       ) : (
                         <StyledResponse
                           text={
-                            showInitialMessage
-                              ? "Hey, why are you bothering me? I hear you like making games... *yawns lazily* especially about some other annoying cat."
-                              : msg.content
+                            "Hey, why are you bothering me? I hear you like making games... *yawns lazily* especially about some other annoying cat."
                           }
                         />
                       )}
