@@ -1,7 +1,5 @@
-# React + TypeScript + Vite
+# Garfield bot
 
-TO SET UP
+a garfield bot made for a secret santa gift.
 
-- change package name in `package.json`
-- change data-domain in `index.html`
-- run `bun install`
+uses webLLM for a local browser experience.
